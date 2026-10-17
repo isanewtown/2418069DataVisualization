@@ -7,9 +7,7 @@ Proyek ini berfokus pada pengolahan dan visualisasi data menggunakan dataset fil
 
 Fitur Visualisasi
 
-Dalam proyek ini, data mentah yang telah melalui proses cleansing diolah lebih lanjut untuk menghasilkan dua visualisasi utama:
-
-Tren Rata-Rata Skor IMDB per Tahun: Sebuah Line Chart yang melacak pergerakan rata-rata rating/skor film dari rilis terlama hingga terbaru.
+Dalam proyek ini, data mentah yang telah melalui proses cleansing diolah lebih lanjut untuk menghasilkan:
 
 Tren Total Pendapatan Film per Tahun: Sebuah Line Chart yang menampilkan akumulasi pendapatan film (Income) di setiap tahunnya (disajikan dalam satuan Juta Dolar agar representasi visual lebih rapi).
 
